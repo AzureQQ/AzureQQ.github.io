@@ -74,5 +74,6 @@ CET-4
 2.一种高层建筑外墙玻璃清洗用便携式无人机
 
 ### ORCID HomePage
-QuanQuan Lv ([Here](https://orcid.org/my-orcid?orcid=0000-0001-8337-4785))
+QuanQuan Lv ([Here](https://orcid.org/0000-0001-8337-4785))
+
 
