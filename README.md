@@ -18,7 +18,7 @@
 
 
 👋 Hi! My name is Lv Quanquan, you can call me "Quan".   
-👀I am an ordinary master student. 
+👀I am an ordinary master student.   
 💞️I am currently studying at the Anhui University of Technology.   
 ✨My research direction is deep learning.  
 🌱I hope everyone can work together.  
@@ -37,8 +37,8 @@
 Male
 
 ### Education
-安徽工业大学机械工程学院 / School of Mechanical Engineering, Anhui University of Technology 
-Ma'anshan Anhui Province, China 
+安徽工业大学机械工程学院 / School of Mechanical Engineering, Anhui University of Technology  
+Ma'anshan Anhui Province, China  
 2020-2023
 
 ### Intern Experience
@@ -73,7 +73,7 @@ CET-4
 1.一种建筑用墙面清理机器人  
 2.一种高层建筑外墙玻璃清洗用便携式无人机
 
-### ORCID HomePage
-QuanQuan Lv ([Here](https://orcid.org/0000-0001-8337-4785))
+### ResearchGate HomePage
+QuanQuan Lv ([Here](https://www.researchgate.net/profile/Quanquan-Lv-2))
 
 
