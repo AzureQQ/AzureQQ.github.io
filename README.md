@@ -18,12 +18,12 @@
 
 
 👋 Hi! My name is Lv Quanquan, you can call me "Quan".   
-✨I am an ordinary master student. 
-I am currently studying at the Anhui University of Technology.   
+👀I am an ordinary master student. 
+💞️I am currently studying at the Anhui University of Technology.   
 ✨My research direction is deep learning.  
-✨I hope everyone can work together.  
+🌱I hope everyone can work together.  
 ☕ Wanna chat?   
-👉 @ me on Weibo or 👉 TikTok. :smile:
+📫 @ me on Weibo or 👉 TikTok. :smile:
 
 # Personal Information
 
@@ -37,7 +37,7 @@ I am currently studying at the Anhui University of Technology.
 Male
 
 ### Education
-安徽工业大学 / Anhui University of Technology 
+安徽工业大学机械工程学院 / School of Mechanical Engineering, Anhui University of Technology 
 Ma'anshan Anhui Province, China 
 2020-2023
 
