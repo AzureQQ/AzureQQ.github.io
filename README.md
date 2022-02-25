@@ -66,8 +66,8 @@ Chinese, English
 CET-4
 
 ### Published Paper
-1. [Hot-Rolled Steel Strip Surface Inspection Based on Transfer Learning Model.](https://www.hindawi.com/journals/js/2021/6637252/)
-2. [Electronic component detection based on image sample generation.](https://www.emerald.com/insight/content/doi/10.1108/SSMT-08-2020-0036/full/html)
+1.[Hot-Rolled Steel Strip Surface Inspection Based on Transfer Learning Model.](https://www.hindawi.com/journals/js/2021/6637252/)
+2.[Electronic component detection based on image sample generation.](https://www.emerald.com/insight/content/doi/10.1108/SSMT-08-2020-0036/full/html)
 
 ### Patent 
 1.一种建筑用墙面清理机器人  
