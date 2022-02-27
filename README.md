@@ -23,12 +23,12 @@
 ✨My research direction is deep learning.  
 🌱I hope everyone can work together.  
 ☕ Wanna chat?   
-📫 @ me on Weibo or 👉 TikTok. :smile:
+📫 @ me on Weibo or 👉 TikTok.  
 
 # Personal Information
 
 ### Name
-吕权权 / QuanQuan Lv
+吕权权 / Quanquan Lv
 
 ### Age
 24 year-old
@@ -74,6 +74,6 @@ CET-4
 2.一种高层建筑外墙玻璃清洗用便携式无人机
 
 ### ResearchGate HomePage
-QuanQuan Lv ([Here](https://www.researchgate.net/profile/Quanquan-Lv-2))
+Quanquan Lv ([Here](https://www.researchgate.net/profile/Quanquan-Lv-2))
 
 
