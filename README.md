@@ -69,6 +69,10 @@ CET-4
 1.[Hot-Rolled Steel Strip Surface Inspection Based on Transfer Learning Model.](https://www.hindawi.com/journals/js/2021/6637252/)  
 2.[Electronic component detection based on image sample generation.](https://www.emerald.com/insight/content/doi/10.1108/SSMT-08-2020-0036/full/html)
 
+### Datasets
+1. Desktop scene text detection dataset. [Baidu Netdisk](https://pan.baidu.com/s/1FjSB43GGQuSt8vUcmYISkg?pwd=lvqq) [GoogleDrive](https://drive.google.com/drive/folders/19yZ9CutST5FBbhmMk3lXG_7bLvh1XXR1?usp=sharing)
+2. Desktop scene text recognition dataset. [Baidu Netdisk](https://pan.baidu.com/s/1lzHfaZRCcxX1tLYjGr2P_Q?pwd=lvqq) [GoogleDrive](https://drive.google.com/drive/folders/1CCUa22kobnC8Le4p4sjgqbZaXL31Lcpv?usp=sharing)
+
 ### Patent 
 1.一种建筑用墙面清理机器人  
 2.一种高层建筑外墙玻璃清洗用便携式无人机
